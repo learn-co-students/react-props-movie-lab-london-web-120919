@@ -5,7 +5,7 @@ const movieData = [
     genres: ['cats', 'adventure', 'romance'],
     poster: 'choux-maru-istanbul'
   },
-  {
+  { 
     title: 'Choux and Maru',
     IMDBRating: 4,
     genres: ['cats', 'drama', 'romance'],
